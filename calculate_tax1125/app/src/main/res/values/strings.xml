@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculate_tax</string>
+    <string name="calculate_Tax">calculate Tax</string>
+    <string name="bill_amount">bill amount</string>
+    <string name="tax_amount">Tax Amount: %s</string>
+    <string name="ex_amount">1000</string>
+    <string name="tax_percentage">Tax Percentage</string>
+    <string name="round_up_tax">Round up tax?</string>
+</resources>

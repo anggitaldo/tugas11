@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daftar mahasiswa</string>
+    <string name="mhs1">Firman</string>
+    <string name="mhs2">Olif</string>
+    <string name="mhs3">Safira</string>
+    <string name="mhs4">Ahsan</string>
+    <string name="mhs5">Firriz</string>
+</resources>
